@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "328328851022",
+    "firebase_url": "https://hidroponik-3865f-default-rtdb.firebaseio.com",
+    "project_id": "hidroponik-3865f",
+    "storage_bucket": "hidroponik-3865f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328328851022:android:62cb7c60bc703b7bd69d1f",
+        "android_client_info": {
+          "package_name": "com.example.hidroponik"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328328851022-cfp99ojbvk7pm4bdtpesch213lfdjhgj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hidroponik",
+            "certificate_hash": "54897bfa63dd642ca19f0e6a9ccb9a670cc7ca83"
+          }
+        },
+        {
+          "client_id": "328328851022-j53uh4r8p4npbmvdfrvr090sb67e82fs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hidroponik",
+            "certificate_hash": "64f80a50c6d24526ced4e7d11138f0536c81b669"
+          }
+        },
+        {
+          "client_id": "328328851022-3ep9p8mut93vt7qnsaj3igv2urbj2t07.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByySXO1eGwDuY_zTEuGEcjs4s6cVN83sg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "328328851022-3ep9p8mut93vt7qnsaj3igv2urbj2t07.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328328851022:android:8565bd1c59cf6fc8d69d1f",
+        "android_client_info": {
+          "package_name": "com.example.realtimesensor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328328851022-3ep9p8mut93vt7qnsaj3igv2urbj2t07.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByySXO1eGwDuY_zTEuGEcjs4s6cVN83sg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "328328851022-3ep9p8mut93vt7qnsaj3igv2urbj2t07.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
